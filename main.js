@@ -11,4 +11,4 @@ for (let c of sozlar) {
 }
 
 console.log("'n' harifi ishtirok etgan so'zlar:", a);
-console.log("'n' haridi ishtirok etmagan so'zlar:", b);
+console.log("'n' harifi ishtirok etmagan so'zlar:", b);
